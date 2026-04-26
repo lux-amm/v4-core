@@ -1,0 +1,20 @@
+{
+  "name": "@luxamm/v4-core",
+  "version": "1.0.0",
+  "description": "Lux AMM V4 core contracts. Fork of upstream Uniswap v4-core.",
+  "repository": "git+https://github.com/lux-amm/v4-core.git",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "uniswap",
+    "core",
+    "v4"
+  ],
+  "bugs": {
+    "url": "https://uniswap.org/bug-bounty"
+  },
+  "homepage": "https://luxamm.io",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}

@@ -14,7 +14,7 @@
   },
   "homepage": "https://luxamm.io",
   "publishConfig": {
-    "access": "public",
-    "provenance": true
-  }
+    "access": "public"
+  },
+  "scripts": {}
 }
